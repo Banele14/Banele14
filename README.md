@@ -19,9 +19,10 @@
 
 ## 💡 Who I Am
 
-> 💻 Full-stack developer passionate about clean code, intuitive interfaces, and resilient systems.  
-> ☁️ I specialize in building cloud-native apps that scale.  
-> ⚙️ From interactive UIs to robust APIs — I design with intent and build with precision.
+> 💻 Full-stack developer passionate about clean code, intuitive interfaces, and resilient systems.   
+> ⚙️ From interactive UIs to robust APIs — I design with intent and build with precision.  
+> 🚀 A sci-fi enthusiast inspired by futuristic tech and storytelling.  
+> ☕ Never far from a cup of coffee — an easy way to boost my day.  
 
 ---
 
