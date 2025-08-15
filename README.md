@@ -1,6 +1,6 @@
 <!-- Top Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89CFF0,100:BFEFFF&height=200&section=header&text=Hi,%20I'm%20a%20Full-Stack%20Developer%20👨🏾‍💻&fontSize=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89CFF0,100:BFEFFF&height=200&section=header&text=Hi,%20I'm%20a%20Software%20Developer%20👨🏾‍💻&fontSize=35&fontColor=ffffff" />
 </p>
 
 <h2 align="center">👋 Welcome! I’m Banele Zulu</h2>
